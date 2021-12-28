@@ -1,5 +1,5 @@
 a=int(input())
 if a%2==0:
-    print("Prime number")
+    print("Prime Number")
 else:
-    print("Not prime number")
+    print("Not Prime Number")
